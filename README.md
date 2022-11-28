@@ -1,0 +1,3 @@
+- 👋 Hi, I’m samuel
+- 👀 I’m interested in programming,and im playing on drums
+- 🌱 I’m currently learning....python
